@@ -1,0 +1,23 @@
+.closeFriendsList {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.closeFriendData {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.closeFriendProfileImg {
+  margin-right: 10px;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.closeFriendName {
+  font-weight: 550;
+}
